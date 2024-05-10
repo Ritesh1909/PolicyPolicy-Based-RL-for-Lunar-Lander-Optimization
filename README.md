@@ -4,7 +4,7 @@ This repository contains the implementation and analysis of Policy-based Reinfor
 
 ## Abstract
 
-We implement and analyze Policy-based algorithms on OpenAI Gym’s LunarLander-v2 environment, including the REINFORCE algorithm and variants of the actor-critic algorithm. The study involves experimenting with different values for multiple parameters to compare how these algorithms perform under varied settings.
+Implement and analyze Policy-based algorithms on OpenAI Gym’s LunarLander-v2 environment, including the REINFORCE algorithm and variants of the actor-critic algorithm. The study involves experimenting with different values for multiple parameters to compare how these algorithms perform under varied settings.
 
 ## Introduction
 
